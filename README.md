@@ -1,6 +1,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sergey+Eglit,s+Github+Profile..)](https://git.io/typing-svg)
 
+<img src='https://github.com/SerjEglit/SerjEglit/blob/main/GIPHY%20.gif' alt = 'The Unlimited' width = '300'>
 
 # my tools
 
