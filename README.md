@@ -21,6 +21,6 @@ Python developer
 💡 **Projects:**
 
 🛠️ **Skills:**
-- **Languages:** Python
+- **Languages:** 
 
-- **Tools:** GitHub
+- **Tools:** 
