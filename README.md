@@ -7,8 +7,8 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
 ![Static Badge](https://img.shields.io/badge/-jupyter-black?style=plastic&logo=python)
-![Static Badge](https://img.shields.io/badge/py-python-blue?logo=git)
-![Static Badge](https://img.shields.io/badge/py-python-blue?logo=googlecolab)
+![Static Badge](https://img.shields.io/badge/-python-blue?logo=git)
+![Static Badge](https://img.shields.io/badge/-python-blue?logo=googlecolab)
 
 
 
