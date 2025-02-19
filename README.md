@@ -21,8 +21,4 @@
 Python developer
 
 💡 **Projects:**
-
-🛠️ **Skills:**
-- **Languages:** 
-
-- **Tools:** 
+🛠️ **ESNSeY_Minimal:**
